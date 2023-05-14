@@ -1,4 +1,4 @@
-#Calculadora de Juros em Python
+# Calculadora de Juros em Python
 
 Esta é uma calculadora simples de juros feita em Python. Ela permite que você calcule o juros simples e composto, além de fornecer a tabela de amortização para o cálculo do juros composto.
 

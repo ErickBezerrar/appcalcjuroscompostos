@@ -20,3 +20,5 @@ Para calcular o juros composto, insira o valor principal, a taxa de juros e o pe
 
 Para calcular o juros simples para um empréstimo de R$ 1.000,00 a uma taxa de juros de 10% ao mês por 6 meses, digite:
 
+![imagem2](https://github.com/ErickBezerrar/appcalcjuroscompostos/blob/main/IMAGES/Captura%20de%20tela%202023-05-14%20102822.png)
+

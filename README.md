@@ -4,15 +4,13 @@ Esta é uma calculadora simples de juros feita em Python. Ela permite que você 
 
 # Como usar
 
-Faça o download do código fonte.
-Certifique-se de ter o Python instalado em seu sistema.
-Abra o terminal e navegue até a pasta onde o código fonte foi salvo.
-Digite o comando python calculadora_juros.py para iniciar a calculadora.
+Faça o download do execuktável dentro da pasta "dist".
+Após baixar o arquivo calc.py.
+Dê dois cliques e use o aplicativo.
 
 # Funcionalidades
+![imagem]()
 
-Juros Simples
-Para calcular o juros simples, insira o valor principal, a taxa de juros e o período em meses. O resultado será o valor do juros a ser pago.
 
 # Juros Composto
 

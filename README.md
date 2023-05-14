@@ -9,7 +9,7 @@ Após baixar o arquivo calc.py.
 Dê dois cliques e use o aplicativo.
 
 # Funcionalidades
-![imagem]()
+![imagem1](https://github.com/ErickBezerrar/appcalcjuroscompostos/blob/main/IMAGES/Captura%20de%20tela%202023-05-14%20102633.png)
 
 
 # Juros Composto

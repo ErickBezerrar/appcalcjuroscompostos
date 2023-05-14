@@ -53,7 +53,7 @@ class InvestimentoGUI:
             self.tree.column(col, width=150, anchor="w")
         self.tree.grid(column=0, row=7, columnspan=2)
 
-
+    
     def limpar_tabela(self):
         self.tree.delete(*self.tree.get_children())
 
@@ -67,7 +67,6 @@ class InvestimentoGUI:
 
 
     def calcular(self):
-        # Limpa a tabela
         for i in self.tree.get_children():
             self.tree.delete(i)
 
@@ -93,7 +92,7 @@ class InvestimentoGUI:
                 juros_ano += juros_mes
                 valor_atual += aporte_mensal + juros_mes
 
-            dividendos_ano = juros_ano / 12  # Novo cálculo dos dividendos mensais
+            dividendos_ano = juros_ano / 12
 
             valores.append((i, "{:.2f}".format(valor_presente), "{:.2f}".format(aporte_mensal * 12), "{:.2f}".format(juros_ano), "{:.2f}".format(dividendos_ano), "{:.2f}".format(valor_atual)))
             valor_presente = valor_atual
